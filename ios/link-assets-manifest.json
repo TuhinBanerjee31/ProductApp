@@ -1,0 +1,13 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Georama-Medium.ttf",
+      "sha1": "04506d25f57928b72f23e112fce4ec7cc84aa28c"
+    },
+    {
+      "path": "assets/fonts/Georama-Thin.ttf",
+      "sha1": "a88a0aef3791178f3484375dbeaf691325183289"
+    }
+  ]
+}
